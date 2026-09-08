@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요! 👋 창선 (Sonia) 입니다.
 
-<!--
-**ckdtjs505/ckdtjs505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Frontend Developer @ SOOP**
+* 웹 성능 최적화, 모던 자바스크립트, 그리고 깔끔한 사용자 인터페이스(UI) 구현에 관심이 많습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3
+* **Environment & Tools:** Smart TV (Tizen, webOS), Git, GitHub
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ckdtjs505&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdtjs505&layout=compact&theme=radical" alt="Top Languages" />
+</p>
