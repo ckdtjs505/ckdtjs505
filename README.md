@@ -13,6 +13,6 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ckdtjs505&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdtjs505&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ckdtjs505&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ckdtjs505&layout=compact&theme=radical" alt="Top Languages" />
 </p>
