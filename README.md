@@ -49,10 +49,11 @@
   <img src="https://img.shields.io/badge/sonia--wiki에_질문하기-4F46E5?style=for-the-badge&logo=googlechat&logoColor=white" alt="sonia-wiki에 질문하기"/>
 </a>
 
-이런 걸 물어볼 수 있어요:
-- [스펙 주도 개발은 워터폴과 뭐가 달라?](https://changsun-macbookair.tail55c391.ts.net/?q=%EC%8A%A4%ED%8E%99%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C%EC%9D%80%20%EC%9B%8C%ED%84%B0%ED%8F%B4%EA%B3%BC%20%EB%AD%90%EA%B0%80%20%EB%8B%AC%EB%9D%BC%3F)
-- [pnpm은 패키지 파일을 어떻게 저장해?](https://changsun-macbookair.tail55c391.ts.net/?q=pnpm%EC%9D%80%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%80%EC%9E%A5%ED%95%B4%3F)
-- [자바스크립트 클로저가 뭐야?](https://changsun-macbookair.tail55c391.ts.net/?q=%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%81%B4%EB%A1%9C%EC%A0%80%EA%B0%80%20%EB%AD%90%EC%95%BC%3F)
+sonia-wiki가 지금 답한 내용입니다. 카드를 누르면 이어서 질문할 수 있어요.
+
+<a href="https://changsun-macbookair.tail55c391.ts.net/?q=%EC%8A%A4%ED%8E%99%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C%EC%9D%80%20%EC%9B%8C%ED%84%B0%ED%8F%B4%EA%B3%BC%20%EB%AD%90%EA%B0%80%20%EB%8B%AC%EB%9D%BC%3F"><img src="https://changsun-macbookair.tail55c391.ts.net/card.svg?q=%EC%8A%A4%ED%8E%99%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C%EC%9D%80%20%EC%9B%8C%ED%84%B0%ED%8F%B4%EA%B3%BC%20%EB%AD%90%EA%B0%80%20%EB%8B%AC%EB%9D%BC%3F" alt="스펙 주도 개발은 워터폴과 뭐가 달라?" width="100%"/></a>
+<a href="https://changsun-macbookair.tail55c391.ts.net/?q=pnpm%EC%9D%80%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%80%EC%9E%A5%ED%95%B4%3F"><img src="https://changsun-macbookair.tail55c391.ts.net/card.svg?q=pnpm%EC%9D%80%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%80%EC%9E%A5%ED%95%B4%3F" alt="pnpm은 패키지 파일을 어떻게 저장해?" width="100%"/></a>
+<a href="https://changsun-macbookair.tail55c391.ts.net/?q=%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%81%B4%EB%A1%9C%EC%A0%80%EA%B0%80%20%EB%AD%90%EC%95%BC%3F"><img src="https://changsun-macbookair.tail55c391.ts.net/card.svg?q=%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%81%B4%EB%A1%9C%EC%A0%80%EA%B0%80%20%EB%AD%90%EC%95%BC%3F" alt="자바스크립트 클로저가 뭐야?" width="100%"/></a>
 
 ## 📝 Recent Posts
 - [impeccable 스킬 후기: 디자인이 바뀔 줄 알았는데 버그를 잡고 있었다](https://ckdtjs505.github.io/posts/impeccable-skill-review)
